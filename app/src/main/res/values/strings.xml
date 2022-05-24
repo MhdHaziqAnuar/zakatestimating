@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Zakat Estimating</string>
+    <string name="title_home">Lets save gold by estimating the payment of zakat with :</string>
+    <string name="lect">Prepared for Sir Mohammad Hafiz Bin Ismail</string>
+    <string name="hyperlink">Explore more at <a href="https://github.com/MhdHaziqAnuar">ZakatEstimating.com</a></string>
+    <string name="copyright">Copyright &#169; 2022 Hakimie Azraei and Haziq Anuar</string>
+    <string name="appdesc">Application to estimate the value of zakat to be
+        paid based on how each user either wants to "Keep" or "Wear" the gold.</string>
+    <string name="kimie">Name - Muhammad Hakimie Azraei Bin Mahzir
+    Student ID - 2021172547 Group - RCS2405A
+    </string>
+    <string name="haziq">Name - Muhammad Haziq Bin Anuar
+    Student ID - 2021125567 Group - RCS2405A
+    </string>
+    <string name="weightgold">Zakat Estimating</string>
+    <string name="formula1">Total Value Gold : Weight (g) * RM Value per (g)</string>
+    <string name="formula2">Zakat Payable : (Weight (g) - keepOrWear) * RM Value per (g)</string>
+    <string name="formula3">Total Zakat : RM Zakat Payable * 2.5% </string>
+    <string name="process1">1) Enter the weight (g) and gold value per (g) :</string>
+    <string name="process2">2) Please choose whether you want to keep or wear :</string>
+</resources>
